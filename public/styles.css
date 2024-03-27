@@ -1,0 +1,28 @@
+body {
+    background-image: url("./taskmanager.jpg");
+    background-repeat: no-repeat;
+    background-size: 1550px 900px;
+  }
+.container {
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    max-width: 500px;
+}
+
+h1 {
+    color: black;
+  }
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 15px;
+}
+
+button {
+    margin-top: 15px;
+}
